@@ -1,6 +1,6 @@
-# {NK} IOPA and NodeKit sample
+# {NK} Chat Application for IOPA and {NK} NodeKit
 
-[![Build Status](https://api.shippable.com/projects/56e32c2e9d043da07bc08f19/badge?branchName=master)](https://app.shippable.com/projects/56e32c2e9d043da07bc08f19) 
+[![Build Status](https://api.shippable.com/projects/56e35a479d043da07bc1e3e0/badge?branchName=master)](https://app.shippable.com/projects/56e35a479d043da07bc1e3e0) 
 [![IOPA](https://img.shields.io/badge/iopa-middleware-99cc33.svg?style=flat-square)](http://iopa.io)
 [![NodeKit](https://img.shields.io/badge/nodekit-ready-3399cc.svg?style=flat-square)](http://nodekit.io/)
 
